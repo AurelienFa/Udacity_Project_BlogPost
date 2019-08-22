@@ -28,7 +28,8 @@ This repo is made of a 3 files:
 - the data for this survey, found under http://open.esa.int/citizens-debate-on-space-for-europe-2016-results-data/
 
 ## Results
-I will soon write a Medium Blog Post under which the main conclusions will then be available.
+On the following medium post, I discuss the methodology and results of this analysis.
+https://medium.com/@fauvel.aurelien/europeans-are-for-the-use-of-space-as-a-common-good-and-research-5a6168e4493b
 
 ## Licensing, Authors, Acknowledgements
 The data is coming from the European Space Agency and the raw data is available under a CC BY 3.0 IGO licence, which means free to use, share and remix the data as long as you mention “ESA Citizens Debate on Space for Europe 2016” as the source.
